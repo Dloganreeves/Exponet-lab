@@ -1,0 +1,14 @@
+C:\Users\logan\source\repos\exponets table\bin\Debug\net8.0\exponets table.exe
+C:\Users\logan\source\repos\exponets table\bin\Debug\net8.0\exponets table.deps.json
+C:\Users\logan\source\repos\exponets table\bin\Debug\net8.0\exponets table.runtimeconfig.json
+C:\Users\logan\source\repos\exponets table\bin\Debug\net8.0\exponets table.dll
+C:\Users\logan\source\repos\exponets table\bin\Debug\net8.0\exponets table.pdb
+C:\Users\logan\source\repos\exponets table\obj\Debug\net8.0\exponets table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\source\repos\exponets table\obj\Debug\net8.0\exponets table.AssemblyInfoInputs.cache
+C:\Users\logan\source\repos\exponets table\obj\Debug\net8.0\exponets table.AssemblyInfo.cs
+C:\Users\logan\source\repos\exponets table\obj\Debug\net8.0\exponets table.csproj.CoreCompileInputs.cache
+C:\Users\logan\source\repos\exponets table\obj\Debug\net8.0\exponets table.dll
+C:\Users\logan\source\repos\exponets table\obj\Debug\net8.0\refint\exponets table.dll
+C:\Users\logan\source\repos\exponets table\obj\Debug\net8.0\exponets table.pdb
+C:\Users\logan\source\repos\exponets table\obj\Debug\net8.0\exponets table.genruntimeconfig.cache
+C:\Users\logan\source\repos\exponets table\obj\Debug\net8.0\ref\exponets table.dll
