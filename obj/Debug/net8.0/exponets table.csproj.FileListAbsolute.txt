@@ -12,3 +12,4 @@ C:\Users\logan\source\repos\exponets table\obj\Debug\net8.0\refint\exponets tabl
 C:\Users\logan\source\repos\exponets table\obj\Debug\net8.0\exponets table.pdb
 C:\Users\logan\source\repos\exponets table\obj\Debug\net8.0\exponets table.genruntimeconfig.cache
 C:\Users\logan\source\repos\exponets table\obj\Debug\net8.0\ref\exponets table.dll
+C:\Users\logan\source\repos\exponets table\obj\Debug\net8.0\exponets table.sourcelink.json

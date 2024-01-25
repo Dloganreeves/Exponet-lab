@@ -16,8 +16,8 @@ namespace exponets_table
                 int usernum = int.Parse(Console.ReadLine());
                 if (usernum >= 1 && usernum < 1290)
                 {
-                    Console.WriteLine($"Header \t\t\t Double \t\t\t Triple");
-                    for (int i = 0; i < usernum; i++)
+                    Console.WriteLine($"Number \t\t\t Double \t\t\t Triple");
+                    for (int i = 1; i <= usernum; i++)
                     {
                         Console.WriteLine($"{i}\t\t\t {i * i}\t\t\t\t\t{i*i*i}");
                         
@@ -25,18 +25,18 @@ namespace exponets_table
 
                     Console.WriteLine("Do you want to contiue? y/n");
                     string choice = Console.ReadLine();
-                    if (choice == "y".ToUpper())
+                    if (choice == "y".ToLower())
                     {
                         repeat = true;
                     }
-                    else if (choice == "n".ToUpper())
+                    else if (choice == "n".ToLower())
                     {
                         repeat = false;
                     }
                 }
                 else 
                 {
-                    Console.WriteLine("Please select a number greater than 0.");
+                    Console.WriteLine("Please select a number between 1-1290.");
                 }
             
 
